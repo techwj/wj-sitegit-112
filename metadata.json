@@ -1,0 +1,59 @@
+{
+  "siteId": "kitchen-storage-seasoning-cookware-tableware",
+  "generatedAt": "2026-06-04T11:33:53.209516",
+  "categories": [
+    "beginner-kitchen-storage-seasoning-cookware-tableware",
+    "advanced-kitchen-storage-seasoning-cookware-tableware",
+    "tips-kitchen-storage-seasoning-cookware-tableware",
+    "history-kitchen-storage-seasoning-cookware-tableware",
+    "trending-kitchen-storage-seasoning-cookware-tableware",
+    "tutorials-kitchen-storage-seasoning-cookware-tableware"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-kitchen-storage-seasoning-cookware-tableware",
+      "category_name": "Beginner Kitchen Storage Seasoning Cookware Tableware"
+    },
+    {
+      "category_slug": "advanced-kitchen-storage-seasoning-cookware-tableware",
+      "category_name": "Advanced Kitchen Storage Seasoning Cookware Tableware"
+    },
+    {
+      "category_slug": "tips-kitchen-storage-seasoning-cookware-tableware",
+      "category_name": "Kitchen Storage Seasoning Cookware Tableware Tips"
+    },
+    {
+      "category_slug": "history-kitchen-storage-seasoning-cookware-tableware",
+      "category_name": "Kitchen Storage Seasoning Cookware Tableware History"
+    },
+    {
+      "category_slug": "trending-kitchen-storage-seasoning-cookware-tableware",
+      "category_name": "Trending Kitchen Storage Seasoning Cookware Tableware"
+    },
+    {
+      "category_slug": "tutorials-kitchen-storage-seasoning-cookware-tableware",
+      "category_name": "Kitchen Storage Seasoning Cookware Tableware Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "kitchen-storage-seasoning-cookware-tableware",
+    "color_scheme": {
+      "name": "Purple Dream",
+      "primary": "#6b21a8",
+      "secondary": "#a855f7",
+      "accent": "#d8b4fe",
+      "background": "#faf5ff",
+      "text": "#581c87",
+      "light": "#f3e8ff"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "topbar",
+    "site_title": "Kitchen Storage Seasoning Cookware Tableware Central",
+    "articles_per_row": 3
+  }
+}
